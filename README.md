@@ -1,0 +1,2 @@
+# sidebartemplate
+for sqit labs
